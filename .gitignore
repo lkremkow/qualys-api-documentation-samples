@@ -3,4 +3,5 @@
 
 # ignore any data downloaded by scripts
 output/*.xml
+output/*.csv
 doc/*.pdf
