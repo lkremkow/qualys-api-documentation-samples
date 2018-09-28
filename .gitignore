@@ -1,1 +1,6 @@
+# ignore Apple folder properties
+.DS_Store
+
+# ignore any data downloaded by scripts
 output/*.xml
+doc/*.pdf

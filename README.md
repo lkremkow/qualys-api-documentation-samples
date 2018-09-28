@@ -13,7 +13,7 @@
    - MacOS 10.13.6
    - Debian GNU/Linux 9 (stretch)
 
-   Based on the Qualys API documentation, as found [here](https://www.qualys.com/docs/qualys-api-vmpc-user-guide.pdf).
+   Based on the Qualys API documentation, as found [here](https://www.qualys.com/documentation/).
 
 
 ## Installation
