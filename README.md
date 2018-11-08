@@ -10,7 +10,7 @@
    - curl
 
    Tested under:
-   - MacOS 10.13.6
+   - MacOS 10.13.6, 10.14.1
    - Debian GNU/Linux 9 (stretch)
 
    Based on the Qualys API documentation, as found [here](https://www.qualys.com/documentation/).
@@ -27,7 +27,15 @@
 
 ## Usage
 
-   TODO: How to use these scripts.
+   TODO: Provide complete guidance on how to use these scripts.
+
+   **fetch_api_documentation.sh**
+
+   Retrieve all the PDF files of the Qualys API documentation.
+
+   Does not require `settings.sh` to be configured correctly.
+
+   `./fetch_api_documentation.sh`
 
 
 ## Contributing
